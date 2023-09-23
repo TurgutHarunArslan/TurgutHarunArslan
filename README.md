@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on An Captcha Solver Ai<br>- 🌱 I’m currently learning Machine Learning Yolov8<br>- 💬 Ask me about Web Scraping,Website Automation,Website<br>- - 😄 Pronouns: He/Him
+- 🔭 I’m currently working on An Captcha Solver Ai<br>- 🌱 I’m currently learning Machine Learning Yolov8<br>- 💬 Ask me about Web Scraping,Website Automation,Website<br>- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
