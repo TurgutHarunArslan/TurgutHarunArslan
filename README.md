@@ -1,6 +1,4 @@
 # 💫 About Me:
-- 🔭 I’m currently working on An Captcha Solver Ai<br>- 🌱 I’m currently learning Machine Learning Yolov8<br>- 💬 Ask me about Web Scraping,Website Automation,Website<br>- 😄 Pronouns: He/Him
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dD7PzWKD6h) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/findablecoding/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TurgutHarunArslan) 
