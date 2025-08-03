@@ -9,7 +9,7 @@ I'm a Software Engineer with a focus on full-stack development, API automation, 
 
 **Languages:**
 - JavaScript (Node.js, Browser)
-- Python (Async, FastAPI)
+- Python (FastAPI)
 - Golang (stdlib, Gin)
 - Lua
 
