@@ -8,8 +8,8 @@ I'm a Software Engineer with a focus on full-stack development, API automation, 
 
 **Languages:**
 - JavaScript (Node.js, Browser)
-- Python (FastAPI)
-- Golang (stdlib, Gin)
+- Python
+- Golang
 - Lua
 
 **Frontend:**
@@ -18,17 +18,14 @@ I'm a Software Engineer with a focus on full-stack development, API automation, 
 - Svelte
 
 **Backend:**
-- FastAPI (Python)
-- Go (stdlib, Gin)
+- Python
+- Go
 
 ---
 
 ## ⚙️ Expertise & Tools
 
-- Reverse engineering and automation of private APIs  
-- Developing reliable API wrappers and integrations  
-- Working with HTTP clients in Python and Go
-
+- Reverse engineering and automation of private APIs
 ---
 [![](https://visitcount.itsvg.in/api?id=TurgutHarunArslan&icon=2&color=6)](https://visitcount.itsvg.in)
 
